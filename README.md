@@ -8,7 +8,8 @@ Ce projet est mon premier tableau de bord réalisé avec **Power BI**.
 - J’ai effectué une **transformation** des données pour les rendre exploitables.  
 - J’ai calculé des **indicateurs clés** tels que :  
   - La **somme** des données  
-  - La **moyenne** des données  
+  - La **moyenne** des données
+  - la mise à jour des données
 - J’ai conçu des **visualisations interactives** pour faciliter l’analyse et la compréhension des résultats.  
 
 ## 🛠️ Outils utilisés
