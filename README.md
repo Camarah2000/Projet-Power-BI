@@ -1,4 +1,4 @@
-🧩 Première partie du projet — Travail dans Power Query
+🧩 Première partie du projet — Travail dans Power Query(prendre en main power Query)
 
 Cette première partie du projet m’a permis de mettre en pratique plusieurs manipulations dans Power Query, notamment :
 
