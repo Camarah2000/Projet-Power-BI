@@ -1,19 +1,15 @@
-# 🚀 Premier projet Power BI
+🧩 Première partie du projet — Travail dans Power Query
 
-## 📖 Description du projet
-Ce projet est mon premier tableau de bord réalisé avec **Power BI**.
+Cette première partie du projet m’a permis de mettre en pratique plusieurs manipulations dans Power Query, notamment :
 
-## 🔍 Détails du projet
-- Les données ont été **importées** à partir d’un fichier **excel**.  
-- J’ai effectué une **transformation** des données pour les rendre exploitables.  
-- J’ai calculé des **indicateurs clés** tels que :  
-  - La **somme** des données  
-  - La **moyenne** des données
-  - la mise à jour des données
-- J’ai conçu des **visualisations interactives** pour faciliter l’analyse et la compréhension des résultats.  
+L’importation des données à partir d’un fichier Excel.
 
-## 🛠️ Outils utilisés
-- **Power BI**  
+Le nettoyage des données en supprimant les colonnes et lignes inutiles.
 
-## 🎯 Objectif
-Présenter mes compétences en **transformation de données**, **création d’indicateurs**, et **visualisation interactive** avec Power BI.
+Le dé-pivotage de certaines colonnes pour restructurer le tableau.
+
+La création de calculs sur des colonnes de valeurs.
+
+Le remplacement de certaines données par des valeurs plus pertinentes.
+
+L’extraction d’informations spécifiques selon les besoins de l’analyse.
